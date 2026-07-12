@@ -1,0 +1,14 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+
+# Credentials / Local config (Adjust if your GC keys have a different name)
+*.json
+.env

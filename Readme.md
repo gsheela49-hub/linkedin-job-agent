@@ -11,10 +11,10 @@ Google Cloud Integration: Automatically syncs and appends qualified opportunitie
 
 Plaintext
 linkedin-job-agent/
-   agent.py            # Main agent script (Scraping, ATS scoring, API logging)
-   .gitignore          # Excludes environment configurations & credentials
-    README.md           # Documentation and execution guide
-    Resume.rtf          #resume file
+  a)  agent.py            # Main agent script (Scraping, ATS scoring, API logging)
+  b)  .gitignore          # Excludes environment configurations & credentials
+  c) README.md           # Documentation and execution guide
+  d) Resume.rtf          #resume file
 
 **Setup & Installation**
 1) Navigate to the Directory:

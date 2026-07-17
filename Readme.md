@@ -1,7 +1,7 @@
 This section details the structure, prerequisites, and runtime steps required to operate the automation engine.
 
-System Features
-Targeted Filtering: Programmatically restricts active pipelines to Technical Program Manager roles within the San Francisco Bay Area.
+**System Features
+Targeted Filtering:** Programmatically restricts active pipelines to Technical Program Manager roles within the San Francisco Bay Area.
 
 ATS Match Engine: Iterates over the "About the Job" description sections of live listings and calculates a match percentage score based on core professional keyword densities.
 

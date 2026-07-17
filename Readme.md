@@ -1,11 +1,11 @@
 This section details the structure, prerequisites, and runtime steps required to operate the automation engine.
 
 **System Features
-Targeted Filtering:** Programmatically restricts active pipelines to Technical Program Manager roles within the San Francisco Bay Area.
+Targeted Filtering:** Programmatically restricts active pipelines to Technical Program Manager roles within the geographical area of your choice. In the current .py file, I use San Francisco Bay Area but you can update it to your preferred geographical location
 
-ATS Match Engine: Iterates over the "About the Job" description sections of live listings and calculates a match percentage score based on core professional keyword densities.
+**ATS Match Engine:** Iterates over the "About the Job" description sections of live listings and calculates a match percentage score based on core professional keyword densities.
 
-Google Cloud Integration: Automatically syncs and appends qualified opportunities to an external tracking spreadsheet using authorized service account keys.
+**Google Cloud Integration**: Automatically syncs and appends qualified opportunities to an external tracking spreadsheet using authorized service account keys.
 
 **Project Directory Layout**
 
